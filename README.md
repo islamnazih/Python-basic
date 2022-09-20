@@ -1,3 +1,3 @@
 # Python-basic
 
-This is my project to study python
+That's what I learn during the Python course.
