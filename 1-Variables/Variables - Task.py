@@ -24,7 +24,18 @@ two = {10,11,12,13,14,15}
 tuple(one)
 
 
+# Create a dict of 3 values
+thisdict ={"Name" : "islam nazih" ,"year" : 1997, "city" : "Egypt"}
 
+
+#Can we use semi colon ; with python 
+# No can't 
+
+#Python is interpreted or compiled ?
+# is interpreted
+
+#What is the differences between low level & high level
+# the low level lancuage man can not understand And it is like the language of the computer
 
 
 
